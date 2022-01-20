@@ -1,8 +1,4 @@
 <?php
 
 echo "Test GIT ";
-
-?>
-<HTml>
-
-</HTml>
+$name = $_POST['name'];
